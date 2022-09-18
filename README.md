@@ -5,7 +5,7 @@
 ### Enviroment
 ### Make sure Node is installed
 
-### colone repo then :
+### clone repo then :
 
 ```
  npm install
